@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/basic-profile/static/css/main.52970cec.chunk.css",
-    "main.js": "/basic-profile/static/js/main.6079d2cb.chunk.js",
-    "main.js.map": "/basic-profile/static/js/main.6079d2cb.chunk.js.map",
+    "main.css": "/basic-profile/static/css/main.d3fc4335.chunk.css",
+    "main.js": "/basic-profile/static/js/main.104b5735.chunk.js",
+    "main.js.map": "/basic-profile/static/js/main.104b5735.chunk.js.map",
     "runtime-main.js": "/basic-profile/static/js/runtime-main.b092fcab.js",
     "runtime-main.js.map": "/basic-profile/static/js/runtime-main.b092fcab.js.map",
-    "static/js/2.54912bfb.chunk.js": "/basic-profile/static/js/2.54912bfb.chunk.js",
-    "static/js/2.54912bfb.chunk.js.map": "/basic-profile/static/js/2.54912bfb.chunk.js.map",
+    "static/js/2.a6355190.chunk.js": "/basic-profile/static/js/2.a6355190.chunk.js",
+    "static/js/2.a6355190.chunk.js.map": "/basic-profile/static/js/2.a6355190.chunk.js.map",
     "index.html": "/basic-profile/index.html",
-    "precache-manifest.44c172741f2ac8f5c3cfa7984fd5f9a7.js": "/basic-profile/precache-manifest.44c172741f2ac8f5c3cfa7984fd5f9a7.js",
+    "precache-manifest.b2804cdc0fef355174d3bf2bdab200ba.js": "/basic-profile/precache-manifest.b2804cdc0fef355174d3bf2bdab200ba.js",
     "service-worker.js": "/basic-profile/service-worker.js",
-    "static/css/main.52970cec.chunk.css.map": "/basic-profile/static/css/main.52970cec.chunk.css.map",
+    "static/css/main.d3fc4335.chunk.css.map": "/basic-profile/static/css/main.d3fc4335.chunk.css.map",
     "static/media/Cheesey2.webp": "/basic-profile/static/media/Cheesey2.b103d706.webp",
     "static/media/headshotimage.jpg": "/basic-profile/static/media/headshotimage.71e2272d.jpg",
     "static/media/iron.jpg": "/basic-profile/static/media/iron.f341f4e4.jpg",
     "static/media/logo.svg": "/basic-profile/static/media/logo.ee7cd8ed.svg",
-    "static/media/resume.PNG": "/basic-profile/static/media/resume.cf68c05c.PNG"
+    "static/media/resume.PNG": "/basic-profile/static/media/resume.cf68c05c.PNG",
+    "static/media/siemens-logo.png": "/basic-profile/static/media/siemens-logo.4f915178.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b092fcab.js",
-    "static/js/2.54912bfb.chunk.js",
-    "static/css/main.52970cec.chunk.css",
-    "static/js/main.6079d2cb.chunk.js"
+    "static/js/2.a6355190.chunk.js",
+    "static/css/main.d3fc4335.chunk.css",
+    "static/js/main.104b5735.chunk.js"
   ]
 }
